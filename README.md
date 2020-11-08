@@ -2,7 +2,7 @@
 
 - 64 LDR
 - 64 Diodi 1N4148
-- 8 resistenze 
+- 8 da 10k resistenze 
 
 
 
