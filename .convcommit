@@ -20,3 +20,4 @@ message:_
 message:~_
 scope:login
 message:removed old files
+message:issue=? for branch=?
